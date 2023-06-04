@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #DEA050;
+    color: white;
+    border: 2px solid black; /*esto es para ver los margenes*/
+}
+
+
+h1 {
+    font-family: 'Caveat', cursive;
+    margin-left: 10px;
+    display: inline;
+}
+
+#imagenheader {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.conteinernav{
+    display: inline;
+    text-align: right;
+}
+
+.listnav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.linknav{
+    display: inline;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+h2{
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.section1{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    border: solid 2px #000000;
+}
+
+.contenedor1{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 100px 20px 100px;
+}
+
+#nenas{
+    color: #000000;
+    font-size: 35px;
+    border: solid black;
+    border-radius: 10px;
+}
+
+#nenes{
+    color: #000000;
+    font-size: 35px;
+    border: solid black;
+    border-radius: 10px;
+}
+
+#botones{
+    display: flex;
+    justify-content: space-between;
+}
+
+#nenas{
+    margin-left: 300px;
+}
+
+#nenes{
+    margin-right: 300px;
+}
+
+h3{
+    color: #E28F24;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    border: solid #000000;
+    border-radius: 5px;
+}
+
+.destacado1{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    border: solid 2px #000000;
+}
+
+.destacado2{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    border: solid 2px #000000;
+}
+
+.destacado3{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    border: solid 2px #000000;
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer{
+    background-color: #DEA050;
+    color: white;
+    margin-top: 20px;
+    padding: 50px 0px 50px 0px;
+}
+
+footer ul li{
+    display: inline-block;
+    font-size: 25px;
+}
