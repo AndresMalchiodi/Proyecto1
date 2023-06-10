@@ -9,19 +9,24 @@ body {
 }
 
 header {
-    background-color: #DEA050;
+    background-color: #f29e58;
     color: white;
-    border: 2px solid black; /*esto es para ver los margenes*/
 }
 
+.enviogratis {
+    text-align: center;
+}
 
+.contnav {
+    background-color: #f8c261;
+}
 h1 {
     font-family: 'Caveat', cursive;
     margin-left: 10px;
     display: inline;
 }
 
-#imagenheader {
+.logotienda {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -34,9 +39,9 @@ h1 {
     text-align: right;
 }
 
-.listnav{
-    display: flex;
-    justify-content: flex-end;
+.ulnav{
+    display: inline;
+    margin-left: 400px;
 }
 
 .linknav{
@@ -50,8 +55,8 @@ a{
     color: #ffffff;
 }
 
-h2{
-    color: black;
+.tituloindex{
+    color: #E28F24;
     font-size: 80px;
     text-align: center;
     margin-top: 100px;
@@ -136,7 +141,7 @@ h3{
 }
 
 footer{
-    background-color: #DEA050;
+    background-color: #f8c261;
     color: white;
     margin-top: 20px;
     padding: 50px 0px 50px 0px;
