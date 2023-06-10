@@ -20,8 +20,10 @@ header {
 .contnav {
     background-color: #f8c261;
 }
+
 h1 {
     font-family: 'Caveat', cursive;
+    font-size: 60px;
     margin-left: 10px;
     display: inline;
 }
@@ -41,7 +43,7 @@ h1 {
 
 .ulnav{
     display: inline;
-    margin-left: 400px;
+    margin-left: 300px;
 }
 
 .linknav{
