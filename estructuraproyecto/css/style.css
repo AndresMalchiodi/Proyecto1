@@ -15,10 +15,12 @@ header {
 .enviogratis {
     background-color: #f29e58;
     text-align: center;
+    height: 25px;
 }
 
 .contnav {
     background-color: #f8c261;
+    position: relative;
 }
 
 h1 {
