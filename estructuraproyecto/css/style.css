@@ -57,6 +57,8 @@ a{
     color: #ffffff;
 }
 
+/*hasta aca son los estilos de header*/
+
 .tituloindex{
     color: #E28F24;
     font-size: 80px;
@@ -152,4 +154,5 @@ footer{
 footer ul li{
     display: inline-block;
     font-size: 25px;
+    margin-right: 10px;
 }
